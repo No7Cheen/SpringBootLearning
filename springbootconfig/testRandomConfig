@@ -1,0 +1,1 @@
+2017-12-06 19:14:23.681  INFO 20100 --- [       Thread-2] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@6c40365c: startup date [Wed Dec 06 19:14:19 CST 2017]; root of context hierarchy
